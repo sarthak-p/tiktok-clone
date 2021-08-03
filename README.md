@@ -17,3 +17,5 @@ Full-Stack TikTok Clone built using MERN Stack (MongoDB, Express, React, Node JS
  * MongoDB
  * Hosting on Heroku
  * Mongoose
+
+ To run the app, click on the "tik-tok clone" folder and follow the instructions in the README. 
