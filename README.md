@@ -5,15 +5,15 @@ Full-Stack TikTok Clone built using MERN Stack (MongoDB, Express, React, Node JS
 ### Technologies Used
 
 ## Front End
-* React,
+* React
 * Firebase Hosting
 * Material UI, Flexbox
 * Third Party Ticker
 * Scroll Snap
 
 ## Back-End
- * Node.js
- * Express.js server
+ * NodeJS
+ * ExpressJS server
  * MongoDB
  * Hosting on Heroku
  * Mongoose
