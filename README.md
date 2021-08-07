@@ -1,6 +1,6 @@
 # TikTok Clone
 
-Tik Tok Clone with ReactJS. 
+Tik Tok Clone with ReactJS hosted using Firebase. 
 
 <!-- ### Technologies Used
 
