@@ -2,20 +2,13 @@
 
 Tik Tok Clone with ReactJS hosted using Firebase. 
 
-<!-- ### Technologies Used
+### Technologies Used
 
-## Front End
 * React
-* Firebase Hosting
-* Material UI, Flexbox
-* Third Party Ticker
+* Firebase Hosting & Database
+* Material UI
+* Flexbox 
 * Scroll Snap
+* useRef Hook
 
-## Back-End
- * NodeJS
- * ExpressJS server
- * MongoDB
- * Hosting on Heroku
- * Mongoose -->
-
- To run the app, click on the "tik-tok clone" folder and follow the instructions in the README. 
+To run the app, click on the "tik-tok clone" folder and follow the instructions in the README. 

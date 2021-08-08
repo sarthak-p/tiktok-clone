@@ -3,7 +3,7 @@ html {
 }
 
 .app {
-  height: 100%;
+  height: 100vh;
   background-color: black;
   display: grid;
   place-items: center;
@@ -24,6 +24,6 @@ html {
 }
 
 .app_videos {
-  -ms-overflow-style: none;
-  scrollbar-width: none;
+  -ms-overflow-style: none; 
+  scrollbar-width: none; 
 }
