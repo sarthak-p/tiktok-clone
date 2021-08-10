@@ -11,5 +11,4 @@ Tik Tok Clone with ReactJS hosted using Firebase.
 * Scroll Snap
 * useRef Hook
 
-To run the app, click on the "tik-tok clone" folder and follow the instructions in the README or click on the following link: https://sarthak-p.github.io/tiktok-clone/
-
+To run the app locally, click on the "tik-tok clone" folder and follow the instructions in the README.
