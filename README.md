@@ -3,7 +3,7 @@
 Tik Tok Clone with ReactJS hosted using Firebase. 
 
 <hr>
-<img src="images/ezgif.com-gif-maker (1).gif"/>
+<video src="images/ezgif.com-gif-maker (1).gif"/>
 <hr>
 
 ### Technologies Used
