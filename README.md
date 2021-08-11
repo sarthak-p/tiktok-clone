@@ -1,6 +1,6 @@
 # TikTok Clone
 
-Tik Tok Clone with ReactJS hosted using Firebase. 
+A beautifully designed replica of the famous and trending TikTok app built with ReactJS and deployed using Firebase.
 
 <hr>
 <img src="images/tiktok-gif.gif"/>
