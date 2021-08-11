@@ -5,7 +5,7 @@ Tik Tok Clone with ReactJS hosted using Firebase.
 <hr>
 <center>
 <img src="images/tiktok-demo.png" />&nbsp;&nbsp;
- </center>
+<center>
 
 ### Technologies Used
 
