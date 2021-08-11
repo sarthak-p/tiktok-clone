@@ -3,9 +3,8 @@
 Tik Tok Clone with ReactJS hosted using Firebase. 
 
 <hr>
-<center>
-<img src="images/tiktok-demo.png" />&nbsp;&nbsp;
-<center>
+<img align="center" src="images/tiktok-demo.png" />&nbsp;&nbsp;
+<hr>
 
 ### Technologies Used
 
